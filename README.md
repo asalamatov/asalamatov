@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azamat</h1>
-<h3 align="center">A passionate software engineer from USA</h3>
-
+<h3 align="center">A passionate Software Engineer studying in USA</h3>
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asalamatov&label=Profile%20views&color=0e75b6&style=flat" alt="asalamatov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asalamatov" alt="asalamatov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on **Full Stack Web Applications**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Three.js**
 
-- 👨‍💻 All of my projects are available at [www.azamatsalamatov.com/#works](www.azamatsalamatov.com/#works)
+- 👨‍💻 All of my projects are available at [https://www.azamatsalamatov.com](https://www.azamatsalamatov.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/azamat-s/](https://www.linkedin.com/in/azamat-s/)
 
