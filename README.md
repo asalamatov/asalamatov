@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Front end and Back end**
 
-- 🤝 I’m looking for help with **Three.js**
+- 🤝 I’m looking for help with **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://www.azamatsalamatov.com](https://www.azamatsalamatov.com)
 
