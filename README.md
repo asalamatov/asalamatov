@@ -23,6 +23,7 @@
 <hr>
 <hr>
 
+  
 # Study Schedule 📚
 
 Welcome to my study schedule! Below is a breakdown of my planned courses and their durations. Let's learn together! 💪
