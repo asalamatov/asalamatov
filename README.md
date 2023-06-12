@@ -34,10 +34,10 @@ Welcome to my study schedule! Below is a breakdown of my planned courses and the
 
 - [x] Coursera: Front end meta (20 hours): June 3 - June 4
 - [ ] Coursera: Backend meta (20 hours): June 5 - June 6
-- [ ] CLEP: College Mathematics (30 hours): June 7 - June 9
+- [x] CLEP: College Mathematics (30 hours): June 7 - June 9
 - [ ] Coursera: Full stack IBM (20 hours): June 10 - June 11
 - [ ] Coursera: React Native meta (20 hours): June 12 - June 13
-- [ ] CLEP: History I (30 hours): June 14 - June 16
+- [x] CLEP: History I (30 hours): June 14 - June 16
 - [ ] Udemy: Angela Yu Full Stack (100 hours): June 17 - June 25
 - [ ] Udemy: JS (60 hours): June 26 - July 1
 
