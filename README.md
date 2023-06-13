@@ -36,6 +36,7 @@ Welcome to my study schedule! Below is a breakdown of my planned courses and the
 - [ ] Coursera: Backend meta (20 hours): June 5 - June 6
 - [x] CLEP: College Mathematics (30 hours): June 7 - June 9
 - [ ] Java Swing (5 hours): June 10
+- [ ] AlgoExpert
 - [ ] Coursera: Full stack IBM (20 hours): June 10 - June 11
 - [ ] Coursera: IBM AI Engineering (30 hours): June 10 - June 11
 - [ ] Coursera: React Native meta (20 hours): June 12 - June 13
