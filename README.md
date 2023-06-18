@@ -58,6 +58,7 @@ Welcome to my study schedule! Below is a breakdown of my planned courses and the
 ## Machine Learning & AI 🤖
 
 - [ ] Coursera: Machine Learning Stanford (30 hours): July 31 - August 2
+- [ ] Coursera: IBM AI Engineering (30 hours)
 - [x] CLEP: Microeconomics (30 hours): August 3 - August 5
 - [ ] Coursera: Deep Learning Stanford (40 hours): August 6 - August 8
 - [ ] Udemy: Machine Learning by Kirill Yeremenko (50 hours): August 9 - August 12
